@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Stardew Valley Crafting Items
 
-You can use the [editor on GitHub](https://github.com/vlvagerviwager/stardew-valley-crafting-items/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A markdown checklist of all Stardew Valley crafting items' names, to be used as a reference particularly for the following achievements:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- D.I.Y. (Craft 15 different items)
+- Artisan (Craft 30 different items)
+- Craft Master (Craft every item)
 
-### Markdown
+Easy to copy and paste into text editors, notes apps, etc. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Last updated 29 August 2020.
 
-```markdown
-Syntax highlighted code block
+## All Crafting Items - Checklist
 
-# Header 1
-## Header 2
-### Header 3
+## All Crafting Items - Markdown Checklist Copy and Paste
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## All Crafting Items - Bulleted List
 
-### Jekyll Themes
+- 
+## All Crafting Items - Plaintext List
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vlvagerviwager/stardew-valley-crafting-items/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
+```
 
-### Support or Contact
+## More Details
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details including the materials needed, visit this [Stardew Valley Wiki page](https://stardewvalley.fandom.com/wiki/Crafting).
